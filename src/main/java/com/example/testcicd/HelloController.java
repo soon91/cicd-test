@@ -11,6 +11,6 @@ public class HelloController {
     @GetMapping("/hello")
     @CrossOrigin()
     public String hello() {
-        return "CICD 작동 테스트2 테스트3";
+        return "CICD 작동 테스트2 테스트4";
     }
 }
